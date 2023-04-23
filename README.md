@@ -1,4 +1,4 @@
-# Facial recognition with VGG16
+# Face detection with VGG16
 This is the repo for facial recognition codes using VGG16.
 
 ## Project highlight
